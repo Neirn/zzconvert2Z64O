@@ -1,0 +1,10 @@
+build/
+libs/
+node_modules/
+dist/
+src/OotOnline.pak
+src/cheatmenu.pak
+src/vanillamizer.bps
+src/zzconvert2z64o/object_link_*
+src/zzconvert2z64o/adult-link.txt
+src/zzconvert2z64o/child-link.txt

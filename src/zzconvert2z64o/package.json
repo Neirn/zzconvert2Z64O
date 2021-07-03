@@ -1,0 +1,56 @@
+{
+  "name": "zzconvert2z64o",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zzplayas.js",
+  "author": "Team-Ooto",
+  "credits": "",
+  "license": "GPL-3.0",
+  "core": [
+    "OcarinaofTime",
+    "MajorasMask"
+  ],
+  "compression": "pak",
+  "zzplayas": {
+    "OOT": {
+      "adult_model": [
+        {
+          "file": "object_link_boy_optimized_0x5800.zobj",
+          "name": "Adult Test"
+        }
+      ],
+      "adult_manifest": "adult-link.txt",
+      "child_model": [
+        {
+          "file": "object_link_child_optimized_0x5800.zobj",
+          "name": "Child Test"
+        }
+      ],
+      "child_manifest": "child-link.txt",
+      "anim_file": {
+        "file": "",
+        "name": ""
+      },
+      "colors": {
+        "kokiri": "",
+        "goron": "",
+        "zora": "",
+        "silver": "",
+        "golden": ""
+      },
+      "oot_script": "ootscript.js",
+      "options": {
+        "applyAnimBankOnEquip": false,
+        "applySoundOnEquip": false
+      }
+    },
+    "MM": {
+      "child_model": [
+        {
+          "file": "",
+          "name": ""
+        }
+      ]
+    }
+  }
+}
