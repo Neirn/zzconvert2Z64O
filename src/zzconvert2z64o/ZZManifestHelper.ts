@@ -43,7 +43,7 @@ export class ZZManifestHelper {
     }
 
     public getAliasTable() {
-        return this.aliasTable;
+        return this.ModLoader.utils.cloneBuffer(this.aliasTable);
     }
 
     public printDictionary() {
